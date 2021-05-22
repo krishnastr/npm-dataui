@@ -1,0 +1,1 @@
+{"version":3,"file":"analytics-config.d.ts","sourceRoot":"","sources":["../../../../projects/data-viz-ui/src/lib/config/analytics-config.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,oBAAoB,EAAyB,MAAM,gBAAgB,CAAC;AAG7E,qBAAa,eAAe;IAE1B,OAAc,6BAA6B,EAAE;QAAE,CAAC,GAAG,EAAE,MAAM,GAAG,MAAM,CAAA;KAAE,CAIpE;IACF,OAAc,eAAe;;;;;;;;;;;;MAY3B;CACH;AAED,wBAAgB,cAAc,IAAI,oBAAoB,CAGrD"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"analytics-structured-events-mapping.d.ts","sourceRoot":"","sources":["../../../../projects/data-viz-ui/src/lib/config/analytics-structured-events-mapping.ts"],"names":[],"mappings":"AACA,qBAAa,gCAAgC;IAE3C,OAAc,iBAAiB;;;MAG7B;IAGF,OAAc,mBAAmB;;;;;;;;;;MAU/B;WAEY,aAAa,CAAC,QAAQ,EAAE,MAAM,GAAG,MAAM;WAKvC,WAAW,CAAC,MAAM,EAAE,MAAM,GAAG,MAAM;CAIlD"}

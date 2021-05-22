@@ -1,0 +1,30 @@
+{
+  "name": "data-viz-ui",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^11.2.13",
+    "@angular/core": "^11.2.13"
+  },
+  "browser": {
+    "buffer": false
+  },
+  "dependencies": {
+    "tslib": "^2.0.0"
+  },
+  "peeDependencies": {
+    "jwt-decode": "^3.1.2",
+    "pubsub-js": "^1.6.0",
+    "@cdx/analytics": "^0.35.0",
+    "powerbi-client": "^2.16.2"
+  },
+  "main": "bundles/data-viz-ui.umd.js",
+  "module": "fesm2015/data-viz-ui.js",
+  "es2015": "fesm2015/data-viz-ui.js",
+  "esm2015": "esm2015/data-viz-ui.js",
+  "fesm2015": "fesm2015/data-viz-ui.js",
+  "typings": "data-viz-ui.d.ts",
+  "sideEffects": false,
+  "scripts": {
+    "prepublishOnly": "node --eval \"console.error('ERROR: Trying to publish a package that has been compiled by Ivy. This is not allowed.\\nPlease delete and rebuild the package, without compiling with Ivy, before attempting to publish.\\n')\" && exit 1"
+  }
+}
